@@ -1,0 +1,10 @@
+{
+    "twilio_sid":"_____",
+    "twilio_token":"____",
+    "twilio_number":"____",
+    "send_to_number":"____",
+    "autoRun":"true",
+    "currency_form":"ERU",
+    "currency_to":"USD",
+    "currency_amount":1
+}

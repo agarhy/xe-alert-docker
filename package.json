@@ -1,0 +1,21 @@
+{
+  "name": "xe-currency-monitor",
+  "version": "0.0.1",
+  "description": "simple worker app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ahmed Garhy",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "iron_worker": "^0.1.8",
+    "node-cron": "^2.0.3",
+    "twilio": "^3.49.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
